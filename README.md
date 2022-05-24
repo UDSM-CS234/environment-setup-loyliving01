@@ -1,3 +1,6 @@
+# NAME;Mhaka,Loy Living
+# REG No;2020-04-06901
+
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
